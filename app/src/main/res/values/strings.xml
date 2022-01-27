@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Who Goes First</string>
+    <string name="choose_who_goes_first">Choose who goes first</string>
+    <string name="team_1">Team 1</string>
+    <string name="team_2">Team 2</string>
+    <string name="enter_team_name_2">Enter team 2 name</string>
+    <string name="enter_team_name_1">Enter team 1 name</string>
+    <string name="result_goes_here">Result goes here</string>
+    <string name="who_goes_first">%1$s goes first</string>
+</resources>
